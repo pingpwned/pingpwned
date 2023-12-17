@@ -3,9 +3,8 @@
     <details open>
         <summary>DEMO projects</summary>
         <ul>
-        <li><a href="https://cryptomariogame.com">https://cryptomariogame.com</a> - 2D game on BSC Testnet</li>
-        <li><a href="https://engiblock.com">https://engiblock.com</a> - Next.js w/ animations, Web3 wallet connect, Nest.js on backend</li>
-        <li><a href="https://pingpwned.github.io/loan-calc-react-redux">https://pingpwned.github.io/loan-calc-react-redux</a> - Loan calculator example app in React/RTX & Express.js</li>
+        <li><a href="https://cryptomariogame.com">https://cryptomariogame.com</a> - If you have a web3 wallet, you can try this awesome game on Binance Smart Chain Test Network.</li>
+        <li><a href="https://next-13-5.vercel.app">https://next-13-5.vercel.app</a> - Next.js App Router, React Server Components with Jest, MUI, SSO-imitation, Middlewares, i18n features.</li>
         </ul>
     </details>
 
