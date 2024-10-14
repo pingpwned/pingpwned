@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/dc0a6a80-c080-4144-96ac-ea5e87ca9559)](https://engiblock.com)
+<!--[![MasterHead](https://github.com/user-attachments/assets/dc0a6a80-c080-4144-96ac-ea5e87ca9559)](https://engiblock.com)-->
 
 
 <h1 align="center">Hi 👋, I'm Dmitrii Savinykh</h1>
