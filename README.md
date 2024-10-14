@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm Dmitrii Savinykh</h1>
 <h3 align="center">A self-tought software engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pingpwned&label=Profile%20views&color=0e75b6&style=flat" alt="pingpwned" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pingpwned&label=Profile%20views&color=0e75b6&style=flat" alt="pingpwned" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pingpwned" alt="pingpwned" /></a> </p>
 
-- 🔭 I’m currently working in [Actum DIGITAL](actumdigital.com)
+- 🔭 I’m currently working at [Actum DIGITAL](actumdigital.com)
 
-- 👨‍💻 All of my projects are available at [engiblock.com](engiblock.com)
+- 👨‍💻 Download my resume [on my website](savinykh.me)
 
 - 📫 How to reach me **dmitrii.savinykh@gmail.com**
 
