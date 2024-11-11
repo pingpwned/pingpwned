@@ -8,9 +8,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pingpwned" alt="pingpwned" /></a> </p>-->
 
-- 🔭 I’m currently working at [Actum DIGITAL](actumdigital.com)
+- 🔭 I’m currently working at [Actum DIGITAL](https://actumdigital.com)
 
-- 👨‍💻 Download my resume [on my website](savinykh.me)
+- 👨‍💻 Download my resume [on my website](https://savinykh.me)
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
