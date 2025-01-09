@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
-- 🔭 I’m currently working at [Actum DIGITAL](https://actumdigital.com)
 
+- 🔭 I’m currently working at [Actum DIGITAL](https://actumdigital.com)
 - 👨‍💻 Download my resume [on my website](https://savinykh.me)
 
 <h3 align="left">Languages and Tools:</h3>
