@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://github.com/user-attachments/assets/dc0a6a80-c080-4144-96ac-ea5e87ca9559)](https://engiblock.com)-->
 
 
-<h1 align="center">Hi 👋, I'm Dmitrii Savinykh</h1>
+<h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">A self-tought software engineer from Prague, Czechia.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pingpwned&label=Profile%20views&color=0e75b6&style=flat" alt="pingpwned" /> </p>-->
